@@ -1,5 +1,4 @@
-const Role = {
-    Admin: 'Admin',
-    User: 'User'
+module.exports = {
+    Admin: "Admin",
+    User: "User"
 };
-
